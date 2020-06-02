@@ -1,0 +1,90 @@
+[
+    
+    {
+        "title": "Jimi Hendrix",
+        "description": "record",
+        "type": "record",
+        "price": "15.00",
+        "image": "/img/Product1Record.png"
+    },
+    {
+        "title": "Amy Winehouse",
+        "description": "Back to Black record",
+        "type": "record",
+        "price": "15.00",
+        "image": "img/Product2Record.png"
+    },
+    {
+        "title": "John Coltrane",
+        "description": "Giant Steps record",
+        "type": "record",
+        "price": "19.98",
+        "image": "img/Product3Record.png"
+    },
+    {
+        "title": "Janis Joplin",
+        "description": "Janis Joplin's Greatest Hits record",
+        "type": "record",
+        "price": "19.99",
+        "image": "img/Product4Record.png"
+    },
+    {
+        "title": "Prince",
+        "description": "Purple Rain record",
+        "type": "record",
+        "price": "25.00",
+        "image": "img/Product5Record.png"
+    },
+    {
+        "title": "Ari Lennox",
+        "description": "Shea Butter Baby record",
+        "type": "record",
+        "price": "25.00",
+        "image": "img/Product6Record.png"
+    },
+    {
+        "title": "Marvin Gaye",
+        "description": "What's Going On record",
+        "type": "record",
+        "price": "25.00",
+        "image": "img/Product7Record.png"
+    },
+    {
+        "title": "Maxwell",
+        "description": "Maxwell's Urban Hang Suite record",
+        "type": "record",
+        "price": "19.99",
+        "image": "img/Product8Record.png"
+    },
+
+
+    {
+        "title": "Audio Technica",
+        "description": "Audio Technica LP-120XUSB Turn Table",
+        "type": "table",
+        "price": "99.99",
+        "image": "img/Product9Table.png"
+    },
+    {
+        "title": "Sony",
+        "description": "Sony Bluetooth Stereo Turntable",
+        "type": "table",
+        "price": "149.99",
+        "image": "img/Product10Table.png"
+    },
+
+    {
+        "title": "Bose",
+        "description": "Bose Noise-Cancelling Headphones",
+        "type": "headphones",
+        "price": "150.95",
+        "image": "img/Product11Headphones.png"
+    },
+    {
+        "title": "Beats",
+        "description": "Beats Studio Wireless Noise Cancelling Headphones",
+        "type": "headphones",
+        "price": "199.99",
+        "image": "img/Product12Headphones.png"
+    }
+]

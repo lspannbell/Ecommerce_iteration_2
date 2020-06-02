@@ -1,0 +1,38 @@
+$main: grey
+$secondary: black
+$highlight: red
+
+*
+box-sizing: border-box
+
+html, body
+    margin: 0
+    padding: 0
+    font-family: helvetica, sans-serif
+
+.banner
+    background: $main url(/Users/r2h/Desktop/Ecommerce/images/ProductTable1.jpg)
+    background-repeat: repeat
+    h1
+    color: $main
+
+    @media only screen and (min-width: 600px) {
+       
+       
+        .container {
+            column-count: 3;
+            column-rule-style: solid;
+            column-rule-color: black;
+        }
+        
+        .outer {
+            padding: 4em;
+        }
+        .card {
+            padding: 2em;
+          
+        }
+    
+    
+    }
+ 
